@@ -6,7 +6,7 @@ int main(){
 int c=a+b;
 printf("%d",c);
 
-c program to sub 2 num
+c program to sub 2 numbers
 #include<stdio.h>
 int main(){
 int a=12;
