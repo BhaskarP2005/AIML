@@ -5,3 +5,12 @@ int main(){
  int b=11;
 int c=a+b;
 printf("%d",c);
+
+c program to sub 2 num
+#include<stdio.h>
+int main(){
+int a=12;
+int b=12;
+int c=a-b;
+printf("%d",c);
+}
